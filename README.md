@@ -2,7 +2,7 @@
 
 **Generative AI & Backend Engineer** · Building RAG pipelines, multi-agent systems, and production-grade APIs · B.Tech CSE (AI & Data Science), IIIT Manipur
 
-I build systems that take AI from a notebook to something that actually runs — from a RAG pipeline that lets you query any GitHub repo in natural language, to a multi-agent pipeline that flags missed clinical interventions in real time for ICU patients.
+I build systems that take AI from a notebook to something that actually runs — from a RAG pipeline that lets you query any GitHub repo in natural language, to a multi-agent pipeline that flags missed clinical interventions in real time for ICU patients
 
 - 🔭 **Currently building:** RepoSage (LangChain + ChromaDB RAG system) and a multi-agent sepsis detection system (XGBoost + FastAPI) — both live
 - 🧠 **Currently researching:** Multimodal autism screening pipeline (questionnaire + facial expression analysis) as a Research Intern at NIT Kurukshetra
