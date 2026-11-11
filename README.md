@@ -7,11 +7,11 @@
 
 **AI Engineer Intern @ Awshar AI** · B.Tech CSE (AI & Data Science), IIIT Manipur
 
-Building intelligent systems with Generative AI, RAG, multi-agent architectures, and scalable backend APIs.
+Building intelligent applications by combining Generative AI, Agentic AI, and backend engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyesh-kumar-7b7704329)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Priyeshshrivastav)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:priyeshsrivastav4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:priyeshshrivastav4@gmail.com)
 
 </div>
 
@@ -19,80 +19,100 @@ Building intelligent systems with Generative AI, RAG, multi-agent architectures,
 
 ## 👨‍💻 About Me
 
-I build systems that take AI from experimentation to practical applications — from RAG pipelines that let users query GitHub repositories in natural language to multi-agent systems designed for healthcare applications.
+I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI, and Backend Engineering. I enjoy building practical AI solutions and contributing to open-source projects.
 
-- 💼 **Currently working:** AI Engineer Intern at **Awshar AI**
-- 🔭 **Building:** RepoSage (LangChain + ChromaDB RAG system) and a multi-agent sepsis detection system (XGBoost + FastAPI)
-- 🧠 **Researching:** Multimodal autism screening using questionnaire data and facial expression analysis as a Research Intern at **NIT Kurukshetra**
-- 🌱 **Learning:** LLM agent architectures, vector databases, scalable backend systems, and system design
-- 🎯 **Open to:** Generative AI, Machine Learning, and Backend Engineering opportunities
-- 🏆 **Achievement:** Semi-Finalist, ET AI Hackathon 2026 — Top 20 among 60,000+ teams
-- 💬 **Ask me about:** RAG, LangChain, FastAPI, Python, LLMs, and Open Source
+- 💼 **Role:** AI Engineer Intern @ Awshar AI
+- 🧠 **Research:** Multimodal AI Research Intern @ NIT Kurukshetra
+- ⚙️ **Interests:** GenAI, LLMs, RAG, AI Agents, MCP & Backend Systems
+- 🌱 **Learning:** LangGraph, Vector Databases & System Design
+- 🎯 **Open to:** GenAI, ML & Backend opportunities
+- 🏆 **Achievement:** ET AI Hackathon 2026 Semi-Finalist (Top 20 / 60,000+)
+- 💬 **Ask me about:** Python, LangChain, FastAPI & Open Source
 
 ---
 
 ## 🚀 Open Source Contributions
 
-I actively contribute to open-source projects, fixing bugs, improving code quality, and adding regression tests.
+I contribute to open-source projects by identifying bugs, improving existing implementations, writing regression tests, and collaborating with maintainers.
 
 <div align="center">
 
-### 2 Merged Pull Requests 🎉
+### Open Source Contributions
+
+![Merged PRs](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show=prs_merged&theme=tokyonight)
 
 </div>
 
 ### 1. TanStack — TanStack Form
+
 - Fixed a TypeScript type issue where `FieldWithValue<T>` incorrectly inferred `field.name` as `any` instead of `string`.
 - Added a regression test to ensure the field name retains its correct string type.
 
 🔗 [View my TanStack contributions](https://github.com/TanStack/form/pulls?q=is%3Apr+author%3APriyeshshrivastav)
 
 ### 2. LINAGORA — Cozy Client
+
 - Fixed manifest sanitization to correctly map `latest_version` to `latestVersion`.
 - Added a regression test to verify the property transformation.
 
 🔗 [View merged PR #1833](https://github.com/linagora/cozy-client/pull/1833)
 
-**What I focus on:** Understanding existing codebases, debugging, writing regression tests, code reviews, and collaborating with maintainers.
+**What I focus on:** Codebase exploration, debugging, regression testing, Git workflows, code reviews, and collaborative software development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / Machine Learning / Generative AI
+### Generative AI & Agentic AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-555555?style=for-the-badge)
+
+**Concepts:** RAG, AI Agents, Multi-Agent Systems, LLM Applications, Prompt Engineering, Embeddings, Vector Search
+
+### AI / Machine Learning
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+**Concepts:** Machine Learning, Deep Learning, NLP, Feature Engineering, Model Evaluation, Multimodal Classification
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+**Concepts:** REST APIs, JWT Authentication, Middleware, API Integration, Vector Databases
+
+### Frontend & Developer Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+### Core Computer Science
+Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems
 
 ---
 
@@ -100,9 +120,9 @@ I actively contribute to open-source projects, fixing bugs, improving code quali
 
 <div align="center">
 
-### Open Source & Contribution Stats
+### GitHub Overview & Open Source Metrics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show_icons=true&theme=tokyonight&include_all_commits=true&show=prs_merged,prs_merged_percentage,prs_authored,reviews,contributions)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show_icons=true&theme=tokyonight&include_all_commits=true&show=prs_merged,prs_merged_percentage,prs_authored,reviews,contributions,all_time_contribs)
 
 ### Contribution Streak
 
@@ -126,12 +146,16 @@ I actively contribute to open-source projects, fixing bugs, improving code quali
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- 🥇 Semi-Finalist — ET AI Hackathon 2026 (Top 20 among 60,000+ teams)
-- 🚀 Successfully merged open-source PRs in TanStack and LINAGORA
-- 💻 Built AI-powered applications involving RAG, machine learning, and multi-agent architectures
-- 🎓 Research Intern — NIT Kurukshetra
+- 🥇 Semi-Finalist — ET AI Hackathon 2026 (Top 20 among 60,000+ participants)
+- 🚀 Open-source contributions merged in TanStack and LINAGORA
+- 🏅 Finalist — Zero to One AI Hackathon (Offline Finale)
+- 🎯 Qualified Round 2 — Flipkart GRID 8.0
+- 🎯 Qualified Round 2 — Adobe University Hackathon 2026
+- ☁️ Oracle Cloud Infrastructure 2025 — AI Foundations Associate
+- 🗄️ MySQL HeatWave Implementation Certified Associate
+- 💻 Solved 330+ DSA problems on LeetCode (Contest Rating: 1508)
 
 ---
 
@@ -139,6 +163,7 @@ I actively contribute to open-source projects, fixing bugs, improving code quali
 
 - **LinkedIn:** [Priyesh Kumar](https://www.linkedin.com/in/priyesh-kumar-7b7704329)
 - **GitHub:** [@Priyeshshrivastav](https://github.com/Priyeshshrivastav)
+- **LeetCode:** [Priyeshshrivastav](https://leetcode.com/)
 - **Email:** [priyeshsrivastav4@gmail.com](mailto:priyeshsrivastav4@gmail.com)
 
 ---
