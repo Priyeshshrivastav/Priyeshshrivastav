@@ -69,9 +69,6 @@ I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI,
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-### Core Computer Science
-
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems
 
 ---
 
@@ -113,13 +110,3 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 - 💻 Solved 330+ DSA problems on LeetCode (Contest Rating: 1508)
 
 ---
-
----
-
-<div align="center">
-
-### "Building, Learning, and Contributing — One Commit at a Time." 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Priyeshshrivastav&color=blueviolet&style=for-the-badge)
-
-</div>
