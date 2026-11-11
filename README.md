@@ -24,10 +24,7 @@ I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI,
 - 💼 **Role:** AI Engineer Intern @ Awshar AI
 - 🧠 **Research:** Multimodal AI Research Intern @ NIT Kurukshetra
 - ⚙️ **Interests:** GenAI, LLMs, RAG, AI Agents, MCP & Backend Systems
-- 🌱 **Learning:** LangGraph, Vector Databases & System Design
-- 🎯 **Open to:** GenAI, ML & Backend opportunities
-- 🏆 **Achievement:** ET AI Hackathon 2026 Semi-Finalist (Top 20 / 60,000+)
-- 💬 **Ask me about:** Python, LangChain, FastAPI & Open Source
+- 🎯 **Open to:** GenAI, AI Engineer & Backend opportunities
 
 ---
 
@@ -80,12 +77,6 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 
 **Concepts:** RAG, AI Agents, Multi-Agent Systems, LLM Applications, Prompt Engineering, Embeddings, Vector Search
 
-### AI / Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
 
 **Concepts:** Machine Learning, Deep Learning, NLP, Feature Engineering, Model Evaluation, Multimodal Classification
 
@@ -153,8 +144,6 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 - 🏅 Finalist — Zero to One AI Hackathon (Offline Finale)
 - 🎯 Qualified Round 2 — Flipkart GRID 8.0
 - 🎯 Qualified Round 2 — Adobe University Hackathon 2026
-- ☁️ Oracle Cloud Infrastructure 2025 — AI Foundations Associate
-- 🗄️ MySQL HeatWave Implementation Certified Associate
 - 💻 Solved 330+ DSA problems on LeetCode (Contest Rating: 1508)
 
 ---
