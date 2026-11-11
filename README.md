@@ -105,12 +105,10 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ### Core Computer Science
 Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems
 
----
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
+---
 ### GitHub Overview & Open Source Metrics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show_icons=true&theme=tokyonight&include_all_commits=true&show=prs_merged,prs_merged_percentage,prs_authored,reviews,contributions,all_time_contribs)
@@ -133,9 +131,8 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyeshshrivastav&theme=tokyo-night)](https://github.com/Priyeshshrivastav)
 
-</div>
-
 ---
+
 
 ## 🏆 Achievements & Certifications
 
