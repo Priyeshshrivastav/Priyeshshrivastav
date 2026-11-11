@@ -91,7 +91,7 @@ I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI,
 </div>
 
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements 
 
 - 🚀 Open-source contributions merged in TanStack and LINAGORA
 - 🎯 Qualified Round 2 — Flipkart GRID 8.0
