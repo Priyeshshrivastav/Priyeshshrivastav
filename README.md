@@ -61,6 +61,7 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -68,6 +69,7 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Generative AI & Agentic AI
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -77,10 +79,18 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 
 **Concepts:** RAG, AI Agents, Multi-Agent Systems, LLM Applications, Prompt Engineering, Embeddings, Vector Search
 
+### AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
 
 **Concepts:** Machine Learning, Deep Learning, NLP, Feature Engineering, Model Evaluation, Multimodal Classification
 
 ### Backend & Databases
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
@@ -91,6 +101,7 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 **Concepts:** REST APIs, JWT Authentication, Middleware, API Integration, Vector Databases
 
 ### Frontend & Developer Tools
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -103,12 +114,15 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ### Core Computer Science
+
 Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems
 
+---
 
 ## 📊 GitHub Statistics
 
----
+<div align="center">
+
 ### GitHub Overview & Open Source Metrics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show_icons=true&theme=tokyonight&include_all_commits=true&show=prs_merged,prs_merged_percentage,prs_authored,reviews,contributions,all_time_contribs)
@@ -131,8 +145,9 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyeshshrivastav&theme=tokyo-night)](https://github.com/Priyeshshrivastav)
 
----
+</div>
 
+---
 
 ## 🏆 Achievements & Certifications
 
