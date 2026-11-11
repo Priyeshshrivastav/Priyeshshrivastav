@@ -26,38 +26,6 @@ I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI,
 - ⚙️ **Interests:** GenAI, LLMs, RAG, AI Agents, MCP & Backend Systems
 - 🎯 **Open to:** GenAI, AI Engineer & Backend opportunities
 
----
-
-## 🚀 Open Source Contributions
-
-I contribute to open-source projects by identifying bugs, improving existing implementations, writing regression tests, and collaborating with maintainers.
-
-<div align="center">
-
-### Open Source Contributions
-
-![Merged PRs](https://github-stats-extended.vercel.app/api?username=Priyeshshrivastav&show=prs_merged&theme=tokyonight)
-
-</div>
-
-### 1. TanStack — TanStack Form
-
-- Fixed a TypeScript type issue where `FieldWithValue<T>` incorrectly inferred `field.name` as `any` instead of `string`.
-- Added a regression test to ensure the field name retains its correct string type.
-
-🔗 [View my TanStack contributions](https://github.com/TanStack/form/pulls?q=is%3Apr+author%3APriyeshshrivastav)
-
-### 2. LINAGORA — Cozy Client
-
-- Fixed manifest sanitization to correctly map `latest_version` to `latestVersion`.
-- Added a regression test to verify the property transformation.
-
-🔗 [View merged PR #1833](https://github.com/linagora/cozy-client/pull/1833)
-
-**What I focus on:** Codebase exploration, debugging, regression testing, Git workflows, code reviews, and collaborative software development.
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -66,8 +34,6 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ### Generative AI & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -78,16 +44,6 @@ I contribute to open-source projects by identifying bugs, improving existing imp
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-555555?style=for-the-badge)
 
 **Concepts:** RAG, AI Agents, Multi-Agent Systems, LLM Applications, Prompt Engineering, Embeddings, Vector Search
-
-### AI / Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-
-**Concepts:** Machine Learning, Deep Learning, NLP, Feature Engineering, Model Evaluation, Multimodal Classification
 
 ### Backend & Databases
 
@@ -151,21 +107,12 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Semi-Finalist — ET AI Hackathon 2026 (Top 20 among 60,000+ participants)
 - 🚀 Open-source contributions merged in TanStack and LINAGORA
-- 🏅 Finalist — Zero to One AI Hackathon (Offline Finale)
 - 🎯 Qualified Round 2 — Flipkart GRID 8.0
-- 🎯 Qualified Round 2 — Adobe University Hackathon 2026
+- 🎯 Qualified Round 3 — Adobe University Hackathon 2026
 - 💻 Solved 330+ DSA problems on LeetCode (Contest Rating: 1508)
 
 ---
-
-## 🌐 Connect With Me
-
-- **LinkedIn:** [Priyesh Kumar](https://www.linkedin.com/in/priyesh-kumar-7b7704329)
-- **GitHub:** [@Priyeshshrivastav](https://github.com/Priyeshshrivastav)
-- **LeetCode:** [Priyeshshrivastav](https://leetcode.com/)
-- **Email:** [priyeshsrivastav4@gmail.com](mailto:priyeshsrivastav4@gmail.com)
 
 ---
 
