@@ -90,17 +90,6 @@ I'm a Computer Science undergraduate passionate about Generative AI, Agentic AI,
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyeshshrivastav&theme=tokyo-night)](https://github.com/Priyeshshrivastav)
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
