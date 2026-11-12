@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Priyesh Kumar 👋
+# Hi, I'm Priyesh👋
 
 ### Generative AI Engineer | Backend Developer | Open Source Contributor
 
